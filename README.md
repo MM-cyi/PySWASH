@@ -1,11 +1,6 @@
 # What is PySWASH
 
-PySWASH is a python based package for visualizing and processing model-generated simulation results obtained with SWASH: an open source wave-flow numerical model. 
- 
-## Contact
-
-You can contact me at: m.miani@cyi.ac.cy, and put [PySWASH] in the mail subject. It might take a while to respond...
-
+PySWASH is a python based package for visualizing and processing model-generated simulation results obtained with SWASH: an open source wave-flow numerical model. You can contact me at: m.miani@cyi.ac.cy, and put [PySWASH] in the mail subject. It might take a while to respond...
 I am happy for any feedback, (constructive) criticism, or proposal to expand/improve the tool as it still is perfectible. 
 
 # Available examples on YouTube:
@@ -26,4 +21,4 @@ https://youtu.be/yORBMHXh1_Q (Wave deformation by an elliptic shoal on sloped bo
 
 # About the tool
 
-The package is under developement, and there still is a ample room for improvement.PLease report bugs or problems. There is a brief user manual available, explaining the logics of the coding and processing. Both code and manual where produced in late 2020, while listening at https://youtu.be/9Ri7TcukAJ8
+The package is under developement, and there still is a ample room for improvement. Please report bugs or problems. There is a brief user manual available, explaining the logics of the coding and processing. Both code and manual where produced in late 2020, while listening at https://youtu.be/9Ri7TcukAJ8

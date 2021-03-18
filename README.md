@@ -21,4 +21,12 @@ https://youtu.be/yORBMHXh1_Q (Wave deformation by an elliptic shoal on sloped bo
 
 # About the tool
 
-The package is under developement, and there still is a ample room for improvement. Please report bugs or problems. There is a brief user manual available, explaining the logics of the coding and processing. Both code and manual where produced in late 2020, while listening at https://youtu.be/9Ri7TcukAJ8
+The package is under developement, and there still is a ample room for improvement. Please report bugs or problems. There is a brief user manual available, explaining the logics of the coding and processing. 
+
+## Manual
+
+Before start using the tool, I suggest to read the manual especially part "3.5 Dictionary". The manual contains anexes. 
+
+# Misc.
+Both code and manual where produced in late 2020, while listening at https://youtu.be/9Ri7TcukAJ8, https://youtu.be/_qdFXMBt73w, https://youtu.be/VqabEZ2uhLE, 
+https://youtu.be/iyR9o_Q-LiM (just to mention a few)

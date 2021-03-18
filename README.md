@@ -2,7 +2,7 @@
 
 PySWASH is a python based package for visualizing and processing model-generated simulation results obtained with SWASH: an open source wave-flow numerical model. 
  
-# Contact
+## Contact
 
 You can contact me at: m.miani@cyi.ac.cy, and put [PySWASH] in the mail subject. It might take a while to respond...
 
